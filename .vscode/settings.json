@@ -1,0 +1,5 @@
+{
+    "pieces.autocomplete": false,
+    "editor.acceptSuggestionOnEnter": "on",
+    "github.copilot.inlineSuggest.enable": false
+}
